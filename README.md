@@ -9,7 +9,7 @@
 Communicate with the SendGrid API to send emails
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-sendgrid.svg)](http://badge.fury.io/js/machinepack-sendgrid) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-sendgrid.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-sendgrid)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-sendgrid.svg)](http://badge.fury.io/js/machinepack-sendgrid) [![Build Status](https://travis-ci.org/luislobo/machinepack-sendgrid.png?branch=master)](https://travis-ci.org/luislobo/machinepack-sendgrid)
 
 ```sh
 $ npm install machinepack-sendgrid
