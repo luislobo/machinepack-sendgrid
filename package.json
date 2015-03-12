@@ -1,6 +1,6 @@
 {
   "name": "machinepack-sendgrid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Communicate with the SendGrid API to send emails",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
