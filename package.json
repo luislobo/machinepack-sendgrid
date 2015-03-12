@@ -1,0 +1,33 @@
+{
+  "name": "machinepack-sendgrid",
+  "version": "1.0.0",
+  "description": "Communicate with the SendGrid API to send emails",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "SendGrid",
+    "machines",
+    "machinepack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^3.0.0",
+    "sendgrid": "^1.6.0"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "SendGrid",
+    "machineDir": "machines/",
+    "machines": [
+      "send-email"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luislobo/machinepack-sendgrid.git"
+  }
+}
