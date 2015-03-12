@@ -10,13 +10,14 @@
     "machines",
     "machinepack"
   ],
-  "author": "",
+  "author": "Luis Lobo Borobia",
   "license": "MIT",
   "dependencies": {
     "machine": "^3.0.0",
     "sendgrid": "^1.6.0"
   },
   "devDependencies": {
+    "mocha": "~1.19.0",
     "test-machinepack-mocha": "^0.2.2"
   },
   "machinepack": {
@@ -29,5 +30,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/luislobo/machinepack-sendgrid.git"
-  }
+  },
+  "testsUrl": "https://travis-ci.org/luislobo/machinepack-sendgrid"
 }
